@@ -4,7 +4,7 @@
 <a href="www.linkedin.com/in/gangula-abhilash-reddy-3a048025b">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/account">
+<a href="https://www.bing.com/ck/a?!&&p=f9f90a32e67b34ccJmltdHM9MTcwODQ3MzYwMCZpZ3VpZD0zMDM3ODlmMC0wMmQ3LTY0MmUtMjUxNC05ZGRhMDNmNDY1YzgmaW5zaWQ9NTIwOA&ptn=3&ver=2&hsh=3&fclid=303789f0-02d7-642e-2514-9dda03f465c8&psq=AbhilashReddy27+github&u=a1aHR0cHM6Ly9naXRodWIuY29tL0FiaGlsYXNoUmVkZHkyNw&ntb=1">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/abhilashreddy_gangula?igsh=MTZncDJ2dmNqaDMxaw==">
